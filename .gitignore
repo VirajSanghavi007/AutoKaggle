@@ -1,0 +1,10 @@
+.venv/
+data/
+checkpoints/
+logs/
+notebooks/*.ipynb
+config/current_run.json
+__pycache__/
+*.pyc
+.pytest_cache/
+catboost_info/

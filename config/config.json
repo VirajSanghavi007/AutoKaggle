@@ -1,0 +1,11 @@
+{
+  "run": {
+    "seed": 7,
+    "max_candidate_models": 5
+  },
+  "kaggle_repo": {
+    "local_path": "C:\\Storage\\Kaggle\\repo",
+    "remote_url": "https://github.com/VirajSanghavi007/Kaggle.git",
+    "branch": "main"
+  }
+}
